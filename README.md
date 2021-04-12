@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is an demo project - read more on:
+This is a demo project - read more on:
 
 - https://martinfowler.com/articles/micro-frontends.html
 - https://blog.bitsrc.io/how-to-develop-microfrontends-using-react-step-by-step-guide-47ebb479cacd
