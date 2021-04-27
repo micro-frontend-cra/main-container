@@ -4,6 +4,7 @@ metadata:
   name: main-container
   annotations:
     github.com/project-slug: micro-frontend-cra/main-container
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
