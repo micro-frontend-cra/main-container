@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: main-container
+  annotations:
+    github.com/project-slug: micro-frontend-cra/main-container
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
